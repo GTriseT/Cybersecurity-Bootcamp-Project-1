@@ -16,4 +16,4 @@ The tasks that were completed included:
 (11) Scheduling your hardening scripts
 (12) Completing the summary report
 
-The completed report is included in this repository
+The completed report is included in this repository labeled as a technical brief
